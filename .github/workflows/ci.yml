@@ -9,6 +9,8 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
+      - name: add webrick
+        run: bundle add webrick
       - name: Install dependencies
         run: bundle install && bundle exec appraisal install
       - name: Build site
