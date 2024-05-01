@@ -4,7 +4,7 @@ title: Полезные курсы по питону и дата саенс
 gh-repo: Avonae/avanae.github.io
 comments: true
 readtime: true
-published: true
+published: false
 ---
 
 На просторах линкедина нашел бесплатные курсы от IBM. Курсы бесплатные, но надо зарегаться на платформе. По результатом можно сдать экзамен и получить сертификат от IBM
