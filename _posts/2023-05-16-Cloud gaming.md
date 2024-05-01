@@ -4,10 +4,7 @@ title: Облачный гейминг или как запустить Хогв
 gh-repo: Avonae/avanae.github.io
 gh-badge:
   - follow
-tags:
-  - игры
-  - компьютерные игры
-  - гейминг
+tags: [игры, компьютерные игры, гейминг]
 comments: true
 readtime: true
 published: false

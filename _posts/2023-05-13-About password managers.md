@@ -4,10 +4,7 @@ title: О менеджерах паролей
 gh-repo: Avonae/avanae.github.io
 gh-badge:
   - follow
-tags:
-  - Пароли
-  - менеджеры паролей
-  - безопасность
+tags: [Пароли, менеджеры паролей, безопасность]
 comments: true
 readtime: true
 published: false

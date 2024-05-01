@@ -4,10 +4,7 @@ title: Фишинг или история одного фейла
 gh-repo: Avonae/avanae.github.io
 gh-badge:
   - follow
-tags:
-  - фишинг
-  - информационная безопасность
-  - email
+tags: [фишинг, информационная безопасность, email]
 comments: true
 readtime: true
 published: false

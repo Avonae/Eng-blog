@@ -4,10 +4,7 @@ title: Как сменить основной язык в Linkedin
 gh-repo: Avonae/avanae.github.io
 gh-badge:
   - follow
-tags:
-  - Linkedin
-  - Поиск работы
-  - языки
+tags: [Linkedin, Поиск работы, языки]
 comments: true
 readtime: true
 published: false
