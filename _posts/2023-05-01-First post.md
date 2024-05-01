@@ -6,13 +6,11 @@ gh-badge:
   - follow
 tags:
 comments: true
-published: false
+published: true
 readtime: true
 ---
+So, I've decided to start a blog. I want to write useful articles for regular people who want to know more about defending themselves in that violent internet space. I've been working in IT for 13 years. I started my work as a 1-st line ISP technical support and then became a system administrator, technical writer, and eventually, business analyst.
 
-Вот я и решил завести блог. У меня есть желание писать полезные статьи для айтишников и интересующихся.
-Я работаю в айти 13 лет. Начинал с техподдержки провайдера, а потом стал системным администратором. В конечном итоге пришел к техническому писательству. 
+This site is more of a convenient archive of articles than a popular portal. But at least there's an RSS feed :D
 
-Этот сайт — скорее удобный архив статей, нежели популярный портал. Но здесь хотя бы есть rss :D
-
-Сделано на Github Pages, репозиторий [доступен публично](https://github.com/Avonae/Blog).
+It's hosted on GitHub Pages, and the repository is [publicly available.](https://github.com/Avonae/Blog).
