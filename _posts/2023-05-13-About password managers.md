@@ -15,7 +15,7 @@ Broadly speaking, password managers can be divided into two types: cloud-based a
 
 ## The most reliable — KeePass
 
-Created in 2003, the free-for-use KeePass has gained many followers over the years. It works extremely simply: the database is an encrypted file opened by a master password. The file can be stored on a flash drive or in the cloud, like Google Drive, thereby ensuring cross-platform compatibility. There's an enhanced version — KeePassXC, which uses the same database but has a nicer interface. I recommend trying it out.
+Created in 2003, the [free-for-use KeePass](https://keepass.info/) has gained many followers over the years. It works extremely simply: the database is an encrypted file opened by a master password. The file can be stored on a flash drive or in the cloud, like Google Drive, thereby ensuring cross-platform compatibility. There's an enhanced version — KeePassXC, which uses the same database but has a nicer interface. I recommend trying it out.
 
 * ➕Free; local database (paranoid mode); many plugins available
 
