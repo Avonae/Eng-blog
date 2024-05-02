@@ -23,17 +23,17 @@ Created in 2003, the [free-for-use KeePass](https://keepass.info/) has gained ma
 
 ## A reasonable compromise — Bitwarden
 
-A relatively new solution in the market — a free password manager with open-source code. It stores passwords on its servers, but you can set up your own. Paranoids rejoice. The interface is nicer than KeePass, but still not very user-friendly. Paid plans provide access to additional features. There's a family plan for $40 per year.
+A relatively new solution in the market — a free password manager with open-source code. [Bitwarden](https://bitwarden.com/) stores passwords on its servers, but you can set up your own. Paranoids rejoice. The interface is nicer than KeePass, but still not very user-friendly. Paid plans provide access to additional features. There's a family plan for $40 per year.
 
-* ➕Free, open-source, cross-platform. Shared vaults available.
+* ➕Free, open-source, cross-platform. Shared vaults are available.
 * ➖Non-intuitive interface, passwords stored in the cloud.
 
 ## The most convenient — 1Password
 
-A true enterprise solution for password storage. Here you get a convenient interface, synchronization across all devices, and password sharing. Everything looks beautiful and modern. In my opinion, it's the best on the market. You can purchase a family plan for $5 per month.
+A true [enterprise solution](https://1password.com/) for password storage. Here you get a convenient interface, synchronization across all devices, and password sharing. Everything looks beautiful and modern. In my opinion, it's the best on the market. You can purchase a family plan for $5 per month.
 
 * ➕Convenient, beautiful, modern. Cross-platform with shared vaults.
-* ➖Quite expensive, doesn't work in Russia. Closed source code and passwords stored in the cloud.
+* ➖Quite expensive, doesn't work in Russia. Closed source code and passwords are stored in the cloud.
 
 ## Summary
 
