@@ -10,9 +10,9 @@ comments: true
 published: false
 ---
 
-Password managers are programs for storing login credentials in encrypted form. As a result, your data will be protected, and you only need to remember one password. In this note, I will tell you about three password managers that I have personally used.
+Password managers are programs for storing login credentials in encrypted form. As result, your data will be protected, and you only need to remember one password. In this note, I will tell you about three password managers that I have personally used.
 
-Broadly speaking, password managers can be divided into two types: cloud-based and local. Cloud-based ones store passwords on their servers and are therefore very convenient; local ones are less convenient but cannot be hacked. I have been using KeePass for 7 years now and can't imagine living without it.
+Broadly speaking, password managers can be divided into two types: cloud-based and local. Cloud-based ones store passwords on the company’s servers and are obliviously more convenient; local ones are less convenient but cannot be hacked. I have been using KeePass for 7 years now and can't imagine living without it.
 
 The most reliable — KeePass
 Created in 2003, the free KeePass has gained many followers over the years. It works extremely simply: the database is an encrypted file opened by a master password. The file can be stored on a flash drive or in the cloud, like Yandex.Disk, thereby ensuring cross-platform compatibility. There's an enhanced version — KeePassXC, which uses the same database but has a nicer interface. I recommend trying it out.
