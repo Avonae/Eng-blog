@@ -9,6 +9,8 @@
 # --- Required options --- #
 ############################
 
+# Base URL
+website: blog.filinkov.org
 # Name of website
 title: Press any key
 
