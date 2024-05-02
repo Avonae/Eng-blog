@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first post
+title: First post
 gh-repo: Avonae/avanae.github.io
 gh-badge:
   - follow
