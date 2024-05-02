@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: Connecting Google Calendar with Telegram via Ai
 gh-repo: Avonae/avanae.github.io
 gh-badge:
   - follow
@@ -9,20 +9,22 @@ comments: true
 published: true
 #readtime: true
 ---
+I'm using Telegram and Google Calendar daily. That post is about connecting them with simple AI to make your life easier.
 
-I'm using telegram and google calendar on daily basis. That post about connecting them together with simply AI to make your life easier.
-
-I'm not a fan of productivity - honestly, this trend seems quite crazy to me. However, I do love convenience and things that simplify my life.
+I'm not a fan of productivity - honestly, this trend seems insane to me. However, I do love convenience and things that simplify my life.
 
 Most often, I use 3 services:
 
-Telegram - I practically live in it. Messaging with colleagues, friends, and channels - that's my everything.
-Google Calendar - for work tasks and personal meetings, to which I invite other people.
-Todoist - for storing tasks that require periodicity, and I unload tasks from my mind there.
-The last 2 services are integrated with each other, and tasks created in Todoist are synced with Google Calendar and vice versa. It's quite convenient because on my phone, notifications are disabled for practically all applications except Google Calendar and Telegram.
+1. Telegram - I practically live in it. Messaging with colleagues, friends, and reading channels - that's my everything.
+2. Google Calendar - for work tasks and personal meetings, to which I invite other people.
+3. Todoist - for storing periodical tasks, and for everything else.
 
-I've been thinking about managing the calendar through Telegram, but all I found was the integration of Telegram + Todoist through IFTTT, which I didn't like. And recently, I found a solution that I still use - Dola.ai.
+The last 2 services are integrated, so tasks created in Todoist are synced with Google Calendar and vice versa. On my phone notifications are disabled for all apps except Google Calendar and Telegram, making it very convenient.
 
-Dola.ai is a service that connects to the calendar and allows you to modify meetings via Telegram. You can write to it (for some reason, I think Dola is feminine), "Tomorrow at 11:00 meeting with the client," and it will schedule the meeting for 11 in the morning. But that's not the coolest part - you can also say it out loud. And it's damn convenient, for example, while you're driving somewhere, you can tell it what meetings to create, which ones to cancel, and it will do everything.
+I couldn't find a way to manage my calendar through Telegram, except for integrating Telegram with Todoist through IFTTT which I didn't like. Recently I have discovered a solution that I still use - Dola.ai.
 
-I'm very pleased, I recommend it.
+Dola.ai is an AI-powered service that connects to the calendar and allows you to modify meetings via Telegram. If you write to Dola (which I picture as a female for some reason), saying "Tomorrow at 11:00 meeting with the client," it will automatically create the meeting in your Google Calendar. But what's even cooler is that you can also send voice messages to Dola.ai and it will accurately transcribe them.
+
+I find it incredibly convenient to manage my meetings while driving by simply instructing my AI assistant to either create or cancel them.
+
+I'm very pleased with it and do recommend it.
