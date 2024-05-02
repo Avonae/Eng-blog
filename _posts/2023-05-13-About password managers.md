@@ -1,6 +1,6 @@
 ---
 layout: post
-title: О менеджерах паролей
+title: A note about password managers
 gh-repo: Avonae/avanae.github.io
 gh-badge:
   - follow
@@ -10,31 +10,31 @@ comments: true
 published: false
 ---
 
-Менеджер паролей — это программа для хранения логинов и паролей в зашифрованном виде. В результате данные будут защищены, а вам достаточно запомнить 1 пароль. В этой заметке я расскажу о 3х менеджерах паролей, которые использовал сам.
+Password managers are programs for storing login credentials in encrypted form. As a result, your data will be protected, and you only need to remember one password. In this note, I will tell you about three password managers that I have personally used.
 
-Глобально, менеджеры паролей можно поделить на 2 вида: облачные и локальные. Облачные хранят пароли у себя на серверах и поэтому очень удобны; локальные же  менее удобны, зато их нельзя взломать. Я использую KeePass уже 7 лет и не представляю, как жить по-другому.
+Broadly speaking, password managers can be divided into two types: cloud-based and local. Cloud-based ones store passwords on their servers and are therefore very convenient; local ones are less convenient but cannot be hacked. I have been using KeePass for 7 years now and can't imagine living without it.
 
-## Самый надежный — KeePass
-Созданный в 2003 году, бесплатный KeePass с годами завоевал множество почитателей. Работает предельно просто: база данных — это зашифрованный файл, открываемый мастер-паролем. Файл можно хранить на флешке или в облаке, типа Яндекс.Диска, тем самым обеспечивая кроссплатформенность. Есть улучшенная версия — KeePassXC, использующий такую же базу данных, но более красивый. Рекомендую попробовать его.
+The most reliable — KeePass
+Created in 2003, the free KeePass has gained many followers over the years. It works extremely simply: the database is an encrypted file opened by a master password. The file can be stored on a flash drive or in the cloud, like Yandex.Disk, thereby ensuring cross-platform compatibility. There's an enhanced version — KeePassXC, which uses the same database but has a nicer interface. I recommend trying it out.
 
-➕Бесплатно; локальная база данных (paranoid mode); доступно множество плагинов
+➕Free; local database (paranoid mode); many plugins available
 
-➖Не особо удобен — из коробки нет интеграции с браузером и кроссплатформенности. Нет общих сейфов и немного устаревший интерфейс.
+➖Not very convenient — lacks browser integration and cross-platform support out of the box. No shared vaults and a slightly outdated interface.
 
-## Разумный компромисс — Bitwarden
-Сравнительно новое решение на рынке — бесплатный менеджер паролей с [открытым кодом](https://github.com/bitwarden). Пароли хранит у себя на серверах, но можно сделать собственный. Параноики ликуют. Интерфейс поприятнее чем у KeePass, но всё ещё не очень удобный. Платные тарифы дают доступ к дополнительным функциям. Есть семейный тариф за 40$ в год.
+A reasonable compromise — Bitwarden
+A relatively new solution in the market — a free password manager with open-source code. It stores passwords on its servers, but you can set up your own. Paranoids rejoice. The interface is nicer than KeePass, but still not very user-friendly. Paid plans provide access to additional features. There's a family plan for $40 per year.
 
-➕Бесплатно, опенсорсно, кроссплатформенно. Есть общие сейфы.
+➕Free, open-source, cross-platform. Shared vaults available.
 
-➖Неинтуинивный интерфейс, пароли хранятся в облаке.
+➖Non-intuitive interface, passwords stored in the cloud.
 
-## Самый удобный — 1Password
-Настоящее интерпрайз решение для хранения паролей. Тут тебе и удобный интерфейс и синхронизация всего со всем и шеринг паролей. Всё красиво и современно. На мой взгляд — лучшее, что есть на рынке. Можно купить семейный тариф за 5$ в месяц. 
+The most convenient — 1Password
+A true enterprise solution for password storage. Here you get a convenient interface, synchronization across all devices, and password sharing. Everything looks beautiful and modern. In my opinion, it's the best on the market. You can purchase a family plan for $5 per month.
 
-➕Удобно, красиво, современно. Кросплатформенно и есть общие сейфы
+➕Convenient, beautiful, modern. Cross-platform with shared vaults.
 
-➖Довольно дорого стоит, не работает в России. Код закрыт и пароли хранятся в облаке.
+➖Quite expensive, doesn't work in Russia. Closed source code and passwords stored in the cloud.
 
-## Итого
-Заведите менеджер паролей. Это реально удобно и безопасно. Только выбирайте тщательно. Например, сервис LastPass [взламывали 4 раза](https://securityintelligence.com/news/lastpass-breaches-cast-doubt-on-password-manager-safety/) и я вам не рекомендую (запрещаю) его использовать. 
-Хочу настроить себе сервер для Bitwarden. Всё-таки автозаполнение в браузере и кроссплатформенность делают своё дело. Ждите в следующих сериях!
+Summary
+Get yourself a password manager. It's really convenient and secure. Just choose carefully. For example, LastPass has been breached 4 times, so I don't recommend (forbid) using it.
+I want to set up a Bitwarden server for myself. After all, browser autofill and cross-platform compatibility do their job well. Stay tuned for the next episodes!
