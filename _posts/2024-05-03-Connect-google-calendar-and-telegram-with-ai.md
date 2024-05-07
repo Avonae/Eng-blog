@@ -28,3 +28,5 @@ Dola.ai is an AI-powered service that connects to the calendar and allows you to
 I find it incredibly convenient to manage my meetings while driving by simply instructing my AI assistant to either create or cancel them.
 
 I'm very pleased with it and do recommend it.
+
+![Telegram chat with Dola](https://github.com/Avonae/Blog3/assets/127596994/0feef427-7601-4bc3-ba7a-7c3e8f41ff98)
