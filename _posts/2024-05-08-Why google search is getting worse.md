@@ -11,7 +11,7 @@ This problem isn't just about fixing Windows issues; the search results are full
 
 The idea that Google search has gotten worse is not entirely new. It's been discussed in tech circles for [over 2 years now](https://dkb.blog/p/google-search-is-dying), and alternative searches like Kagi continue to show up. Thanks to the process against Google, we found out that they [intentionally spoiled the search](https://www.justice.gov/atr/case/us-and-plaintiff-states-v-google-llc), forcing users who couldn't find the information they needed to keep searching. I recommend reading an article on this topic — [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/), where the author talks about how bad managers’ decisions to improve short-term metrics affect users in the long run.
 
-As for me, I'm not ready to pay for a good search yet, and I don't like DuckDuckGo as well. I also heard that adding “before:2020-12-30” will improve search results. I recommend you try it.
+As for me, I'm not ready to pay for a good search yet, and I don't like DuckDuckGo as well. I also heard that adding “before:2020” will improve search results. I recommend you try it.
 
 So, I'll be trying services like perplexity.ai and [thebrowser.company](http://thebrowser.company) in hopes of finding something suitable. What do you think? Did you notice the difference or just don’t care about it?
 
