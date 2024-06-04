@@ -27,7 +27,7 @@ My Cloudflare forwards all emails to my Gmail account and it has led to the prob
 
 Google rejected its own email as spam lol. So I changed the destination email in Cloudflare to another one and got a verification link from Gmail. I passed the verification and reverted the setting. 
 
-Lastly, you should check a newly appeared setting in Google Calendar, that allow you use your own domain address to accept invitations. That setting will appear in Google Calendar only after 15 minutes you add the alternate email so be patient. 
+Lastly, you should check a newly appeared setting in Google Calendar, that allow you use your own domain address to accept invitations. That setting will appear in Google Calendar only after 15 minutes you added the alternate email so be patient. 
 
 1. In [Google Calendar](https://calendar.google.com/) on the left, point to the name of your calendar, then click Options Settings and sharing.
 2. In the menu on the left under “Settings for my calendars,” click Other notifications.
