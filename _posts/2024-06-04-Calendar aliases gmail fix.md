@@ -36,4 +36,5 @@ Lastly, you should check a newly appeared setting in Google Calendar, that allow
 ![Allow responding to invitations forwarded through alternative email addresses](/assets/img/gmail-fix/screen2.webp)
 
 Aaaand that’s it! Everything works like a charm and you can accept invitations sent to your domain account directly in Gmail.
+
 The only issue with this setup is that if you want to conceal your main Gmail account under a domain email, you can't do that. The inviter will still be able to see it.
