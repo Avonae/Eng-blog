@@ -19,7 +19,7 @@ It’s pretty easy and you can read about it in Google’s [official documentati
 4. Next to "Alternate emails," select **Add alternate email** or **Add another email**. You may need to sign in again.
 5. Enter an email address you own. Select **Add**.
 
-It won’t work for Google Workspace, only for personal accounts.
+Keep in mind, that it won’t work for Google Workspace, only for personal accounts.
 
 My Cloudflare forwards all emails to my Gmail account and it has led to the problem when I tried to the alternate email. 
 
