@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gmail alias doesn't work with calendar invitations fix
+title: Fix Gmail alias doesn't work with calendar invitations
 gh-repo: Avonae/avanae.github.io
 published: true
 ---
