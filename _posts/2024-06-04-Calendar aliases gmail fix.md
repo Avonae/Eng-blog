@@ -1,0 +1,39 @@
+---
+layout: post
+title: Gmail alias doesn't work with calendar invitations fix
+gh-repo: Avonae/avanae.github.io
+published: true
+---
+
+I primarily use Gmail for my email and have multiple email addresses. To use my own domain's email, I set up email routing on Cloudflare to forward all incoming emails to my Gmail account. In Gmail, I added this email as "send as" and used it for outgoing emails as well. It's a neat and free setup. However, recently I noticed that I couldn't accept invitations sent to my domain email. When I press "yes" on the invitation, it turns green, but the meeting doesn't appear on my calendar. This prompted me to investigate and find a solution.
+
+# What do you need
+
+First of all, you need to add your domain mail to your Google account as an alternate email. 
+
+It’s pretty easy and you can read about it in Google’s [official documentation](https://support.google.com/accounts/answer/176347?hl=en&pli=1&co=GENIE.Platform%3DDesktop&oco=1). Here’s the process:
+
+1. Open your [Google Account](https://myaccount.google.com/)
+2. Select **Personal info**.
+3. Under "Contact info," click **Email**.
+4. Next to "Alternate emails," select **Add alternate email** or **Add another email**. You may need to sign in again.
+5. Enter an email address you own. Select **Add**.
+
+It won’t work for Google Workspace, only for personal accounts.
+
+My Cloudflare forwards all emails to my Gmail account and it has led to the problem when I tried to the alternate email. 
+
+![Untitled](Fig%20Gmail%20alias%20doesn't%20work%20with%20calendar%20invitat%20926477a169af49cc8ad5b5426c2570bc/Untitled.png)
+![Gmail marked its own mail as spam](/assets/gmail-fix/screen1.webp)
+
+Google rejected its own email as spam lol. So I changed the destination email in Cloudflare to another one and got a verification link from Gmail. I passed the verification and reverted the setting. 
+
+Lastly, you should check a newly appeared setting in Google Calendar, that allow you use your own domain address to accept invitations. That setting will appear in Google Calendar only after 15 minutes you add the alternate email so be patient. 
+
+1. In [Google Calendar](https://calendar.google.com/) on the left, point to the name of your calendar, then click Options Settings and sharing.
+2. In the menu on the left under “Settings for my calendars,” click Other notifications.
+3. Check the box next to “Allow responding to invitations forwarded through alternative email addresses.”
+
+![Allow responding to invitations forwarded through alternative email addresses](/assets/gmail-fix/screen2.webp)
+
+Aaaand that’s it! Everything works like a charm and you can accept invitations sent to your domain account directly in Gmail.
