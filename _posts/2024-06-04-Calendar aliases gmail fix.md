@@ -23,8 +23,7 @@ It won’t work for Google Workspace, only for personal accounts.
 
 My Cloudflare forwards all emails to my Gmail account and it has led to the problem when I tried to the alternate email. 
 
-![Untitled](Fig%20Gmail%20alias%20doesn't%20work%20with%20calendar%20invitat%20926477a169af49cc8ad5b5426c2570bc/Untitled.png)
-![Gmail marked its own mail as spam](/assets/gmail-fix/screen1.webp)
+![Gmail marked its own mail as spam](/assets/img/gmail-fix/screen1.webp)
 
 Google rejected its own email as spam lol. So I changed the destination email in Cloudflare to another one and got a verification link from Gmail. I passed the verification and reverted the setting. 
 
@@ -34,7 +33,7 @@ Lastly, you should check a newly appeared setting in Google Calendar, that allow
 2. In the menu on the left under “Settings for my calendars,” click Other notifications.
 3. Check the box next to “Allow responding to invitations forwarded through alternative email addresses.”
 
-![Allow responding to invitations forwarded through alternative email addresses](/assets/gmail-fix/screen2.webp)
+![Allow responding to invitations forwarded through alternative email addresses](/assets/img/gmail-fix/screen2.webp)
 
 Aaaand that’s it! Everything works like a charm and you can accept invitations sent to your domain account directly in Gmail.
 The only issue with this setup is that if you want to conceal your main Gmail account under a domain email, you can't do that. The inviter will still be able to see it.
