@@ -179,6 +179,9 @@ footer-hover-col: "#0085A1"
 # Google Tag Manager ID
 gtm: "GTM-W4PZTD5G"
 
+# Yandex metrika (https://metrica.yandex.com/) leave blank to ignore or put true to use
+yandex_metrica: "97174186"
+
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
