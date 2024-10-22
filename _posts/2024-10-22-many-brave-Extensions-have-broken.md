@@ -19,4 +19,4 @@ However, this fix didn't work for Grammarly. Turns out it was straight up remove
 
 ![For some reason, the extension was completely removed frome Chrome Web Store](/assets/img/grammarly/Grammarly2.png)
 
-Link to the extension: https://chromewebstore.google.com/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen
+Link to the extension: [https://chromewebstore.google.com/detail/grammarly-grammar-checker](https://chromewebstore.google.com/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
