@@ -171,7 +171,7 @@ To make Windows boot first, edit the GRUB config:
 sudo nano /etc/default/grub
 ```
 
-Change `GRUB_DEFAULT=2` to 2.
+Change `GRUB_DEFAULT=0` to 2.
 
 The GRUB boot order starts at 0, meaning Ubuntu is 0, advanced is 1, and Windows is 2. Apply the changes:
 
