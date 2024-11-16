@@ -5,7 +5,7 @@ gh-repo: Avonae/avanae.github.io
 published: true
 ---
 
-КIt seems everyone has an old laptop that’s been downgraded to a movie-watching machine. I have one too—connected via HDMI to my TV, pretty much forgotten. One day, just for the heck of it, I installed Linux on it, and a few months later, when I needed space, I decided to simply delete the Linux partition. I rebooted the laptop, and, of course, Windows didn’t load. After installing Linux, GRUB had rewritten the MBR, and now the system didn’t know where to boot from.
+It seems everyone has an old laptop that’s been downgraded to a movie-watching machine. I have one too—connected via HDMI to my TV, pretty much forgotten. One day, just for the heck of it, I installed Linux on it, and a few months later, when I needed space, I decided to simply delete the Linux partition. I rebooted the laptop, and, of course, Windows didn’t load. After installing Linux, GRUB had rewritten the MBR, and now the system didn’t know where to boot from.
 
 What to do? It seemed simple enough: grab a flash drive, boot up with a Live CD, and restore the MBR. But I didn't have a flash drive. Sure, I could borrow one, but I wanted to solve the problem right there and then. As I thought about it, I dug into the BIOS and found out that the laptop supported network booting via PXE…
 
