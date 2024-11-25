@@ -19,6 +19,6 @@ I’ve tried this twice, and here are the results:
 1️⃣ When the official rate was 2.728 and the bank’s rate was 2.7812, I managed to get 2.755.  
 2️⃣ When the official rate was 2.73 and the bank’s rate was 2.7832, they gave me 2.74.  
 
-The difference compared to the initial offer was 0.9–1.6%. It’s not huge, but still a nice perk—especially for large amounts.
+The difference compared to the initial offer was 0.9–1.6%. It’s not huge, but still a nice perk, especially for large amounts.
 
 ![Here’s how you can negotiate with the bank directly in the app](/assets/img/bank-of-georgia.png)
