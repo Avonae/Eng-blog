@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How to negotiate with a bank about currency rates
+title: How to raise currency rates in bank of georgia
 gh-repo: Avonae/avanae.github.io
 published: true
 ---
 
-The official USD exchange rate in Georgia right now is 2.7384, while at Bank of Georgia it’s 2.6850/2.7850. Their rates have always been terrible, but I recently found out that you can… negotiate the rate! The main condition is an exchange amount starting from 1000 GEL (~$360).
+The official USD exchange rate in Georgia right now (25 november 2024) is 2.7384, while at Bank of Georgia it’s 2.6850/2.7850. Their rates have always been terrible, but I recently found out that you can… negotiate the rate! The main condition is an exchange amount starting from 1000 GEL (~$360).
 
 Here’s how it works:
 
