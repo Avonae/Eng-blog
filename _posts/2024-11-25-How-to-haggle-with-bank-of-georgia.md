@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Как поторговаться с Bank of Georgia за курс
+title: How to negotiate with a bank about currency rates
 gh-repo: Avonae/avanae.github.io
 published: true
 ---
