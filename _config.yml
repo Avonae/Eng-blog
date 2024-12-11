@@ -180,7 +180,7 @@ gtag: "G-QNNKEYL5YP"
 #gtm: "GTM-W4PZTD5G"
 
 # Yandex metrika (https://metrica.yandex.com/) leave blank to ignore or put true to use
-yandexmetrica: true
+{% include yandex_metrica.html %} true
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
