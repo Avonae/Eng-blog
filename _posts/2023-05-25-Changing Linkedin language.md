@@ -1,26 +1,27 @@
 ---
 layout: post
-title: Как сменить основной язык в Linkedin
-gh-repo: Avonae/avanae.github.io
+title: How to Change Your Primary Language on Linkedin
+gh-repo: Avonae/avonae.github.io
 gh-badge:
   - follow
-tags: [Linkedin, Поиск работы, языки]
+tags: [Linkedin, job search, language]
 comments: true
-#readtime: true
-published: false
+published: true
 ---
-Когда я создавал аккаунт на Linkedin, мне и в голову не приходило делать это на английском языке. Сейчас же, когда я хочу устроиться в иностранную компанию, а у меня основной язык профиля — русский. Очевидного способа поменять его нет, но есть неочевидный, о котором я сейчас и расскажу. 
 
-У меня в профиле 2 было языка: русский, основной и английский — дополнительный. 
+When I first created my Linkedin account, I didn’t even think about setting it up in English. Now that I want to work for an international company, my profile’s primary language is Russian. There’s no obvious way to change it, but there is a not-so-obvious one, and I’m here to share it with you.
 
-1. С чего начинается любое хорошее дело? Правильно — с бэкапа. Поэтому перейдите в английскую версию своего профиля и под аватаркой нажмите **Еще > Сохранить в PDF**. Ваш профиль скачается в PDF и данные не потеряются. 
-Есть другой вариант: там же, справа нажмите на ссылку «Редактировать общедоступный профиль и URL-адрес» и английский профиль откроется в новой вкладке, откуда можно скопировать нужные данные. 
-					![2 языка профиля](/assets/img/Linkedin-changing-language/3.png)
-2. Откройте получившийся PDF файл и убедитесь, что все данные на месте и на правильном языке. Потому что я скачал на русском и не проверил ) 
-3. Теперь найдите в правом верхнем углу значок языков 🌐и нажмите его. Далее **удалите английский язык**, нажав на ✕ рядом с ним. Мы его потом добавим, не зря же делали бэкап! 
-          			![удаляем английский](/assets/img/Linkedin-changing-language/2.png)
-4. В результате у вас останется только один язык в профиле. Нажимайте «Добавление профиля на другом языке» и выбирайте в списке **русский язык.** Да-да, русский, который у вас уже есть. Linkedin спросит у вас, какой же тогда текущий язык профиля и вы выберите английский. 
-					![выбираем язык](/assets/img/Linkedin-changing-language/1.png)
-Вуаля, теперь у вас основной язык профиля английский, а русский — дополнительный. Его можно удалить по желанию.
+My profile had two languages: Russian as the primary, and English as an additional one.
 
-Подписывайтесь на мой [канал с полезностями](https://t.me/Press_Any)
+1. **Step one: Back it up.** Every good process starts with a backup. Go to the English version of your profile, click **More > Save to PDF** below your profile picture. This will download your profile as a PDF, so your data won’t be lost. Alternatively, click the “Edit public profile & URL” link on the right. This will open your English profile in a new tab, where you can copy the data you need.  
+![Profile with 2 languages](/assets/img/Linkedin-changing-language/3.png)
+
+2. **Check your PDF backup.** Open the downloaded file and make sure all the data is intact and in the correct language. I made the mistake of downloading it in Russian and didn’t double-check.
+
+3. **Remove English as a secondary language.** Find the language icon 🌐 in the top-right corner and click it. Then, **delete the English language** by pressing the ❌ next to it. Don’t worry, we’ll add it back soon—that’s why we made a backup!  
+![Removing English](/assets/img/Linkedin-changing-language/2.png)
+
+4. **Add a new language profile.** You’ll now have just one language left in your profile. Click “Add profile in another language” and select **Russian** from the list. Yes, Russian—the language you already have. Linkedin will ask you what the new primary language of your profile should be, and you’ll select English.  
+![Selecting the language](/assets/img/Linkedin-changing-language/1.png)
+
+And voilà! Your primary profile language is now English, and Russian is the secondary language. You can delete it if you don’t need it.
