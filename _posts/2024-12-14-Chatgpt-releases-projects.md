@@ -13,6 +13,6 @@ Essentially, Projects are advanced folders that separate conversations. You can 
 
 The good news is that you can organize existing chats into Projects. After moving them, you can continue the conversation, and the custom instructions for that project will apply. Though it’s still unclear whether ChatGPT will reanalyze these dialogues from scratch.
 
-Projects are available to everyone—both free and paid users. This is something I’ll definitely use!
+Projects are available to everyone — both free and paid users. This is something I’ll definitely use!
 
 ![My ChatGPT projects](/assets/img/projects-in-chatgpt.png)
