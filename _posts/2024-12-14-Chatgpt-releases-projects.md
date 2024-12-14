@@ -1,18 +1,18 @@
 ---
 layout: post
-title: ChatGPT выпустил проекты для удобной организации папок
+title: ChatGPT released projects, a convinient way to organize folders
 gh-repo: Avonae/avanae.github.io
 published: true
 ---
 
-ChatGPT выпустили "[Проекты](https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt)" в рамках своего [12-дневного хайпа](https://openai.com/12-days/) "1 продукт каждый день". Наконец-то они начали исправлять свой топорный UX, существующий с каменного века.
+ChatGPT has released "[Projects](https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt)" as part of their [12-day hype](https://openai.com/12-days/) "1 product every day." Finally, they’re starting to fix their clunky UX that feels like it’s been stuck in the Stone Age.
 
-Проекты при этом были в Claude довольно давно, как и нормальный UX. К примеру, у них название чата удобно закреплено наверху, а чаты и проекты можно добавлять в избранное. Проекты также можно архивировать — надеюсь эту возможность добавят и в ChatGPT тоже.
+Projects, by the way, have been available in Claude for quite some time, along with a much better UX. For example, Claude pins the chat title at the top, lets you bookmark chats and projects, and even archive them. Hopefully, ChatGPT will add archiving soon too.
 
-По сути, проекты — это продвинутые папки, разграничивающие диалоги. В них можно загружать свои файлы и инструкции, которые не будут пересекаться с другими. Я так долго ждал эту функцию! Сейчас у меня в чатах полная каша. Рабочие вопросы, докер, n8n и черновики блога в одной куче. И мне хочется, чтобы по блогу он мне задавал наводящие вопросы, а по линуксу — выступал экспертом, обчитавшись документации.
+Essentially, Projects are advanced folders that separate conversations. You can upload your own files and instructions into each one, and they won’t overlap with others. I've been waiting for this feature forever! My chats are currently a total mess—work discussions, Docker questions, n8n, and blog drafts are all lumped together. What I really want is for ChatGPT to ask me guiding questions about my blog while being a Linux expert who’s devoured all the documentation.
 
-Из хороших новостей — существующие чаты можно распихать по проектам. После переноса, чат можно продолжить и на него будут действовать кастомные инструкции этого проекта. Правда, не очень понятно, будет ли ChatGPT заново анализировать эти диалоги. Память при этом работает в рамках проекта, что тоже очень приятно.
+The good news is that you can organize existing chats into Projects. After moving them, you can continue the conversation, and the custom instructions for that project will apply. Though it’s still unclear whether ChatGPT will reanalyze these dialogues from scratch.
 
-Проекты доступны сразу всем — и платным и бесплатным пользователям. Это мы используем!
+Projects are available to everyone—both free and paid users. This is something I’ll definitely use!
 
 ![My ChatGPT projects](/assets/img/projects-in-chatgpt.png)
