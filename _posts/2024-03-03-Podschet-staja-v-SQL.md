@@ -15,7 +15,7 @@ Why it decided on 24 months, I still don’t know. But because of this, I had to
 Anyway, here’s my code—hope it’s useful to someone. Of course, I don’t know SQL and I’m not a programmer, so feel free to share improvements in the comments.
 
 ```sql
-SELECT '#','ФИО', 'Position',
+SELECT '#','Name', 'Position',
 CONCAT
 (
  DATEDIFF(YEAR, 'hire date', GETDATE()), " years, ",
