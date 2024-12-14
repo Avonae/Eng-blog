@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to make your own Teamspeak server in 15 minutes
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 published: true
 ---
 

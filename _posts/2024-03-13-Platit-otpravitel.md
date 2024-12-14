@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Sender pays отправитель или кто должен платить за трафик
-gh-repo: Avonae/avanae.github.io
+title: Sender pays отправитель or who's gonna pay for traffic
+gh-repo: Avonae/avonae.github.io
 #readtime: true
 published: false
 ---
 
-Я тут недавно узнал, что [стримерская платформа твич](https://www.notion.so/1389e053302f49d9aa5173c5739074ef?pvs=21) закрылась в Южной Корее. Начав разбираться, выяснилось что расходы на трафик в Корее у твича в [10 раз больше](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/), чем в других странах. Почему так?
+I recently found out that the [streaming platform Twitch](https://publicknowledge.org/twitch-shuts-down-in-south-korea-a-reminder-of-why-we-fight-for-net-neutrality/) has shut down its operations in South Korea. As I dug deeper, I discovered that Twitch's traffic costs in Korea are [10 times higher](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/) than in other countries. But why?
 
-В Корее с 2016 года государство пытается изменить политику платы за трафик и внедряет систему “Sender pays” — платит отправитель. Это значит, что провайдеры должны компенсировать друг другу пересылаемый между ними трафик. При этом, клиент, который собственно и запрашивает контент, сам платит провайдеру. Такая идея призвана сократить расходы на трафик провайдеров для больших потребителей вроде нетфликса. Однако они забывают, что нетфликс *уже* заплатил за трафик в месте его отправки. Но им этого было мало.
+Since 2016, the Korean government has been trying to change its traffic billing policies by introducing a "Sender pays" system. This means that providers must compensate each other for the traffic exchanged between them. Meanwhile, the client, who actually requests the content, still pays their provider. The idea is to reduce traffic expenses for big consumers like Netflix. However, they seem to forget that Netflix *already* paid for the traffic at its origin. But that wasn’t enough.
 
-В результате, компании внутри Кореи стараются вынести свои сайты за пределы страны, потому что это тупо дорого. Какой смысл платить в 10 раз выше в своей стране, если можно арендовать сервак дешевле в соседней? Вопрос риторический. 
+As a result, companies in Korea are moving their websites abroad because it's simply cheaper. Why pay ten times the cost in your own country when you can rent a server in a neighboring country for less? It's a rhetorical question.
 
-Как следствие, мета просто убрала все серверы из Кореи, нетфликс 3 года в суде ругался с провайдером, а твич закрылся. Хотел бы я знать, что больше — сокращение налогов от этих компаний или выгода от внедрения такого правила? 
+Consequently, Meta pulled all its servers out of Korea, Netflix spent three years in court fighting with a provider, and Twitch shut down. I’d love to know which is greater — the tax revenue losses from these companies or the supposed benefits of this policy.
 
-Желаем неудачи им в борьбе со свободным интернетом и молимся, чтобы этот тренд не докатился до нас. Подробнее можно почитать [в статье на internetsociety.com](https://www.internetsociety.org/resources/internet-fragmentation/south-korea-sender-pays/).
+We wish them luck in their battle against the free internet and pray this trend doesn’t reach us. You can read more about it [in this article on internetsociety.com](https://www.internetsociety.org/resources/internet-fragmentation/south-korea-sender-pays/).

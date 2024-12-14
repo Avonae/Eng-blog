@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts about ChatGPT
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 published: true
 ---
 

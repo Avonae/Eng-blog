@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Connecting Google Calendar with Telegram via Ai
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 gh-badge:
   - follow
 tags:
 comments: true
 published: true
-#readtime: true
 ---
 I'm using Telegram and Google Calendar daily. That post is about connecting them with simple AI to make your life easier.
 

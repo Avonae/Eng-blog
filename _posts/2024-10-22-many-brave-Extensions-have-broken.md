@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Extensions in Chrome Are No Longer Available
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 published: true
 ---
 Today I woke up to find that a good third of my extensions in Brave had stopped working. Same deal with Chrome. So, what now?

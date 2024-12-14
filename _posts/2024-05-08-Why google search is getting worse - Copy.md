@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Why google search is getting worse
-gh-repo: Avonae/avanae.github.io
-#readtime: true
+gh-repo: Avonae/avonae.github.io
 published: true
 ---
+
 I've been using Google all my life and it searched okay until recently. Around the last 2 years, I started to notice that search results are becoming way worse than before. Here's what happened: I broke something on my grandmother's computer and tried to figure out the problem. I asked Google, and the results were full of SEO-generated websites, all of which recommended running "Windows troubleshooting." The craziest part was that among the top results was a video showing the same thing! It pissed me off.
 
 This problem isn't just about fixing Windows issues; the search results are full of irrelevant shit that wastes your time instead of solving the problem. To get over it, people add the word "reddit" to search queries, assuming that Reddit content is mainly created by real people. I said “mainly”, because [there's already a service](https://www.404media.co/ai-is-poisoning-reddit-to-promote-products-and-game-google-with-parasite-seo/) that uses AI to write comments on Reddit and thus promote your service. According to Google's logic, Reddit itself is a trusted site with a high citation index, which means that everything posted on it is considered okay by default. I think such SEO methods bad, but they seem to be genuinely effective.

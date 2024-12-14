@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to raise currency rates in bank of georgia
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 published: true
 ---
 

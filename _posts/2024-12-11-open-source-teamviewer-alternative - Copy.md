@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Free Alternative to TeamViewer and AnyDesk
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 published: true
 ---
 

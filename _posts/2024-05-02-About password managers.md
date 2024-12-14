@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A note about password managers
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 gh-badge:
   - follow
 tags: [Passwords, password managers, information securty]

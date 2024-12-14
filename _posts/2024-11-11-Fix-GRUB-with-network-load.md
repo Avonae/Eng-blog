@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to fix GRUB rescue without LiveCD
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 published: true
 ---
 
