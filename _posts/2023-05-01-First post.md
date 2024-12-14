@@ -7,7 +7,6 @@ gh-badge:
 tags:
 comments: true
 published: true
-#readtime: true
 ---
 
 A short note on what this blog is about.
