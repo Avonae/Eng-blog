@@ -3,7 +3,7 @@ layout: post
 title: Sender pays отправитель or who's gonna pay for traffic
 gh-repo: Avonae/avonae.github.io
 #readtime: true
-published: false
+published: true
 ---
 
 I recently found out that the [streaming platform Twitch](https://publicknowledge.org/twitch-shuts-down-in-south-korea-a-reminder-of-why-we-fight-for-net-neutrality/) has shut down its operations in South Korea. As I dug deeper, I discovered that Twitch's traffic costs in Korea are [10 times higher](https://blog.twitch.tv/en/2023/12/05/an-update-on-twitch-in-korea/) than in other countries. But why?
