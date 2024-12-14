@@ -1,28 +1,27 @@
 ---
 layout: post
-title: Полезные курсы по питону и дата саенс
+title: Free python and data science courses
 gh-repo: Avonae/avanae.github.io
 comments: true
-#readtime: true
-published: false
+published: true
 ---
 
-На просторах линкедина нашел бесплатные курсы от IBM. Курсы бесплатные, но надо зарегаться на платформе. По результатом можно сдать экзамен и получить сертификат от IBM
+I stumbled upon some free courses from IBM while browsing LinkedIn. The courses are free, but you’ll need to register on the platform. After completing them, you can take an exam and earn a certificate from IBM.
 
-1. [Python for Data Science, AI & Development](https://cognitiveclass.ai/courses/python-for-data-science). Курс поможет познакомиться с Питоном и дата саенс в целом.
-    - 20 часов
-    - Для начинающих
-2. [Docker Essentials: A Developer Introduction](https://cognitiveclass.ai/courses/docker-essentials). Узнайте, как использовать Docker для ваших приложений. Создаем и запускаем первый контейнер.
-    - 3 часа
-    - Для начинающих
-3. [Data Analysis with Python](https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v2). Знакомимся с анализом данных на питоне
-    - 3-4 часа
-    - Для начинающих
-4. [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning). Изучаем основы дип лернинга.
-    - 6 часов
-    - Для начинающих
+1. [Python for Data Science, AI & Development](https://cognitiveclass.ai/courses/python-for-data-science). This course introduces you to Python and data science in general.
+    - 20 hours
+    - Beginner-friendly
+2. [Docker Essentials: A Developer Introduction](https://cognitiveclass.ai/courses/docker-essentials). Learn how to use Docker for your applications. Create and run your first container.
+    - 3 hours
+    - Beginner-friendly
+3. [Data Analysis with Python](https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v2). Get acquainted with data analysis using Python.
+    - 3-4 hours
+    - Beginner-friendly
+4. [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning). Learn the basics of deep learning.
+    - 6 hours
+    - Beginner-friendly
 
-И еще пачка курсов без описания, они довольно специфические
+There’s also a bunch of other courses without descriptions—they’re quite specialized.
 
 1. [Build a Neural Network with PyTorch](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0114EN+v1)
 2. [Classification with PyTorch](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0112EN+v1)
