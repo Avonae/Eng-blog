@@ -1,30 +1,28 @@
 ---
 layout: post
-title: Подсчет стажа в SQL
-gh-repo: Avonae/avanae.github.io
-#readtime: true
-published: false
+title: Calculating Work Time in Confluence
+gh-repo: Avonae/avonae.github.io
+published: true
 ---
+At work, I was tasked with calculating the work time for employees in a table, based on their hire date. Since we use Confluence for internal documentation, it was decided to do it there too.
 
-На работе появилась задача — посчитать рабочее время в таблице сотрудников, зная дату приёма на работу. Мы для внутренней доки используем Confluence поэтому делать было решено тоже там. 
+We have the [Table Filter & Charts for Confluence](https://marketplace.atlassian.com/apps/27447/table-filter-charts-spreadsheets-for-confluence?hosting=datacenter&tab=overview) plugin, which lets you take a table from an article and work with it via SQL. The plugin uses some [cursed AlaSQL](https://alasql.org/) that resembles TSQL in syntax. Using the plugin, I built a new table from the employee data with four columns: number, full name, position, and tenure.
 
-У нас стоит плагин [Table Filter & Charts for Confluence](https://marketplace.atlassian.com/apps/27447/table-filter-charts-spreadsheets-for-confluence?hosting=datacenter&tab=overview), который позволяет взять таблицу в статье и работать с ней через SQL. В плагине используется какой-то [проклятый AlaSQL](https://alasql.org/), который по синтаксису похож на TSQL. С помощью плагина я из таблицы сотрудников собираю новую с 4 столбцами: номером, фио, должностью и стажем.
+And so, everything was going fine. I found some similar code online, plugged it in… and realized that TSQL somehow thinks that if an employee was hired on 11.03.22, and today is 03.03.24, the difference is 24 MONTHS. As a result, the number of days was off by one month, showing -6 instead of 24.
 
-Ну и вот. Всё было хорошо, я нашёл в интернете похожий код, воткнул… и понял что TSQL почему-то считает, что если сотрудник пришёл 11.03.22, а сейчас 03.03.24 то разница между ними 24 МЕСЯЦА. В результате, количество дней отличалось на 1 месяц и получалось -6 вместо 24.
+Why it decided on 24 months, I still don’t know. But because of this, I had to calculate months based on the number of days between the dates, which were calculated correctly.
 
-Почему 24 месяца, я так и не понял. Но из-за этого пришлось высчитывать месяцы исходя из количества дней между датами, которые считались корректно. 
-
-В общем, вот мой код, вдруг пригодиться :). Само собой, SQL я не знаю и вообще не программист, поэтому можете написать как его улучшить в комментариях. 
+Anyway, here’s my code—hope it’s useful to someone. Of course, I don’t know SQL and I’m not a programmer, so feel free to share improvements in the comments.
 
 ```sql
-SELECT '#','ФИО', 'Должность',
+SELECT '#','ФИО', 'Position',
 CONCAT
 (
- DATEDIFF(YEAR, 'Прием на работу', GETDATE()), " лет, ",
-FLOOR(floor(DATEDIFF(DAY, 'Прием на работу', GETDATE())/30.4375) - (DATEDIFF(YEAR, 'Прием на работу', GETDATE()) * 12)), " месяцев, ",
-FLOOR(DATEDIFF(DAY, 'Прием на работу', GETDATE()) - 
-365*FLOOR(DATEDIFF(YEAR, 'Прием на работу', GETDATE())) - 
-30.4375*FLOOR(floor(DATEDIFF(DAY, 'Прием на работу', GETDATE())/30.44)-DATEDIFF(YEAR, 'Прием на работу', GETDATE()) * 12)), " дней"
+ DATEDIFF(YEAR, 'hire date', GETDATE()), " years, ",
+FLOOR(floor(DATEDIFF(DAY, 'hire date', GETDATE())/30.4375) - (DATEDIFF(YEAR, 'hire date', GETDATE()) * 12)), " months, ",
+FLOOR(DATEDIFF(DAY, 'hire date', GETDATE()) - 
+365*FLOOR(DATEDIFF(YEAR, 'hire date', GETDATE())) - 
+30.4375*FLOOR(floor(DATEDIFF(DAY, 'hire date', GETDATE())/30.44)-DATEDIFF(YEAR, 'hire date', GETDATE()) * 12)), " days"
 )
-AS 'Стаж' FROM T1;
+AS 'experience' FROM T1;
 ```
