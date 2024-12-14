@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sender pays or who's gonna pay for traffic
+title: Sender pays or who is gonna pay for traffic
 gh-repo: Avonae/avonae.github.io
 #readtime: true
 published: true
