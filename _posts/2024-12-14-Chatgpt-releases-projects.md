@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ChatGPT released projects, a convinient way to organize folders
-gh-repo: Avonae/avanae.github.io
+gh-repo: Avonae/avonae.github.io
 published: true
 ---
 
