@@ -21,6 +21,7 @@ This is nothing new and has happened before. In response to similar demands, App
 - Siri Shortcuts
 - Voice Memos
 - Wallet passes
+
 So, I recommend all iPhone owners to [enable ADP](https://support.apple.com/en-gb/108756). Why not? You lose nothing, only gain security.
 
 Personally, I don’t think Apple will comply with the UK government’s demands — this would severely undermine trust in the brand, and the UK isn’t even part of the EU. It’ll be interesting to see how this unfolds...
