@@ -26,6 +26,7 @@ navbar-links:
   #Resources:
    - Privacy policy: "privacy"
    - Terms of use: "terms_of_use"
+   - Todoist main page: "todoist_sync_app"
   # - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
