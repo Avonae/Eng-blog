@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Effective Date:** [insert date]
-
 This privacy policy ("Policy") informs you of our practices when handling your information through our application ("Services"). In this Policy, "we", "our" or "us" refers to the operators of the application. When you are using the Services in your personal capacity, we are the data controller under applicable privacy laws, and this Policy applies.
 
 When you are using the Services as a member of an organization that is a customer of the application, we are a data processor under applicable privacy laws, and that organization is the data controller. In those cases, your organization's privacy policy applies. We are not responsible for the privacy practices of third parties.
