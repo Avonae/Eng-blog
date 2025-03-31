@@ -3,7 +3,7 @@
 **Welcome!**  
 This app integrates your Google Calendar and Todoist account, enabling seamless two-way synchronization.
 
-![Integration Diagram](integration.png)
+![todoist_gcal](https://github.com/user-attachments/assets/879a7817-b89d-419e-83ba-ba1414324594)
 
 ### What it does:
 
@@ -17,4 +17,3 @@ This app integrates your Google Calendar and Todoist account, enabling seamless 
 After authorizing with Google and connecting your Todoist account, the app continuously keeps both platforms in sync.  
 Any changes you make in one will be reflected in the other.
 
-![todoist_gcal](https://github.com/user-attachments/assets/879a7817-b89d-419e-83ba-ba1414324594)
