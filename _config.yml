@@ -24,7 +24,8 @@ author: Ivan Filinkov
 navbar-links:
   # About Me: "aboutme"
   #Resources:
-  # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   - Privacy policy: "privacy"
+   - Terms of use: "terms_of_use"
   # - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
