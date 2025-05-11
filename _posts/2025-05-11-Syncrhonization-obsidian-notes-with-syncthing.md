@@ -16,11 +16,11 @@ But this setup had a few downsides:
 
 Anyone who's worked with Git knows how often sync conflicts pop up — and how annoying they are. So I decided to look for something simpler and ended up with [Syncthing](https://github.com/syncthing/syncthing).
 
-Syncthing is an open-source sync tool. You install it on a device, specify the folder to sync, and then share it with another device. It encrypts the data and transfers it directly or via a relay server. You can also set up direct sync via your own server, though I haven’t done that yet.
+Syncthing is an open-source synchronization tool. You install it on a device, specify which folder to sync, and then connect another device for synchronization. The system takes the selected folder, encrypts it, and sends it either directly to the device or through a relay server. Technically, you don't even need a server — as long as both devices are online, they’ll find each other and sync. But I still set it up on a server to have a single entry point.
 
-Syncthing comes with a web interface, so the first thing you’ll want to do is hide it behind a VPN or secure it somehow. I used a [Cloudflare Zero Trust tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/#how-it-works) to protect it.
+Syncthing comes with a built-in web interface, so on the server it’s best to hide it behind a VPN or otherwise secure it. I hid it behind a Cloudflare Zero Trust tunnel. 
 
-After that, just install Syncthing on other devices and connect the shared folder.
+Syncthing comes with a web interface, so the first thing you’ll want to do is hide it behind a VPN or secure it somehow. I used a [Cloudflare Zero Trust tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/#how-it-works) to protect it. After that, you just install Syncthing on your other devices and connect the folders you want to sync.
 
 As a bonus, I wanted some kind of backup (as if syncing across three devices wasn’t enough), so I made an automated GitHub push. With ChatGPT, [we created a script](https://github.com/Avonae/Scripts) that pushes changes to GitHub once an hour. For fun, I also set up [GPG commit signing](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key#generating-a-gpg-key), so now my commits have that nice little Verified badge xD.
 
