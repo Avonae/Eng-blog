@@ -99,4 +99,5 @@ xinput list-props 11 | grep "Scrolling Distance"
 It should now return the correct values — in my case, it’s ***350***.
 
 ![New touchpad speed](/assets/img/touchpad-fix/2.png)
+
 That's it — the device ID may change, but the scroll speed will stay just the way you like it.
