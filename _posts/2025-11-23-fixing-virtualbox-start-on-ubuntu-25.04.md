@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Virtualbox desnt work on Ubuntu 25.04
+title: Virtualbox doesnt work on Ubuntu 25.04
 gh-repo: Avonae/avanae.github.io
 published: true
 ---
 
-By some silly coincidence, I upgraded my desktop Ubuntu LTS to the latest 25.04 release. And that's when the fun began... Half of my apps stopped working because the desktop environment moved to Wayland with GNOME, and on top of that --- VirtualBox completely broke. So I started digging.
+By some silly coincidence, I upgraded my desktop Ubuntu LTS to the latest 25.04 release. And that's when the fun began... Half of my apps stopped working because the desktop environment moved to Wayland with GNOME, and on top of that, VirtualBox stopped working. So I started digging.
 
 Turns out that starting from [kernel version 6.12](https://www.virtualbox.org/ticket/22248#comment:1), KVM is enabled
 by default in Ubuntu, and it conflicts with VirtualBox. So if you don't need KVM, just disable it.
