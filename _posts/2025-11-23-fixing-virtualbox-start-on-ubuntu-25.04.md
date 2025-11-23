@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Virtualbox doesnt work on Ubuntu 25.04
+title: Virtualbox doesn't work on Ubuntu 25.04
 gh-repo: Avonae/avanae.github.io
 published: true
 ---
