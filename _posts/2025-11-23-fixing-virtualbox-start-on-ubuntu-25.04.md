@@ -5,7 +5,7 @@ gh-repo: Avonae/avanae.github.io
 published: true
 ---
 
-By some silly coincidence, I upgraded my desktop Ubuntu LTS to the latest 25.04 release. And that's when the fun began... Half of my apps stopped working because the desktop environment moved to Wayland with GNOME, and on top of that, VirtualBox stopped working. So I started digging.
+By some silly coincidence, I upgraded my desktop Ubuntu LTS to the latest 25.04 release. And that's when the fun began... Half of my apps stopped working because the desktop environment moved to Wayland with GNOME, and on top of that --- VirtualBox got completely broke. So I started digging.
 
 Turns out that starting from [kernel version 6.12](https://www.virtualbox.org/ticket/22248#comment:1), KVM is enabled
 by default in Ubuntu, and it conflicts with VirtualBox. So if you don't need KVM, just disable it.
@@ -20,7 +20,7 @@ sudo nano /etc/default/grub
 
 In the line `GRUB_CMDLINE_LINUX`, add the parameter `kvm.enable_virt_at_load=0`
 
-![fixing grub settings](assets/img/kvm-ubuntu-25.04/kvm-ubuntu-25.04.png)
+![fixing grub settings](/assets/img/kvm-ubuntu-25.04/kvm-ubuntu-25.04.png)
 
 Save the changes, then run:
 
